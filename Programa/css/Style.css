@@ -5,3 +5,11 @@
     font-family: "Lato", sans-serif;
 }
 
+
+body{
+    background-color: #090e22;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    color: #fff;
+}
